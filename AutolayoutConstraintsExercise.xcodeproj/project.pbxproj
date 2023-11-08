@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9160EE002AFBCB4F002799C8 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9160EDFF2AFBCB4F002799C8 /* ViewModel.swift */; };
 		9191F9942AE2BB4B001A2666 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9191F9932AE2BB4B001A2666 /* AppDelegate.swift */; };
 		9191F9962AE2BB4B001A2666 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9191F9952AE2BB4B001A2666 /* SceneDelegate.swift */; };
 		9191F9982AE2BB4B001A2666 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9191F9972AE2BB4B001A2666 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9160EDFF2AFBCB4F002799C8 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		9191F9902AE2BB4B001A2666 /* AutolayoutConstraintsExercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutolayoutConstraintsExercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9191F9932AE2BB4B001A2666 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9191F9952AE2BB4B001A2666 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				9191F9932AE2BB4B001A2666 /* AppDelegate.swift */,
 				9191F9952AE2BB4B001A2666 /* SceneDelegate.swift */,
 				9191F9972AE2BB4B001A2666 /* ViewController.swift */,
+				9160EDFF2AFBCB4F002799C8 /* ViewModel.swift */,
 				9191F9992AE2BB4B001A2666 /* Main.storyboard */,
 				9191F99C2AE2BB4D001A2666 /* Assets.xcassets */,
 				9191F99E2AE2BB4D001A2666 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				9191F9982AE2BB4B001A2666 /* ViewController.swift in Sources */,
 				9191F9942AE2BB4B001A2666 /* AppDelegate.swift in Sources */,
+				9160EE002AFBCB4F002799C8 /* ViewModel.swift in Sources */,
 				9191F9962AE2BB4B001A2666 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
